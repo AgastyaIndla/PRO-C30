@@ -1,7 +1,7 @@
 # PRO-C30
 
 
-Output link 
+Output Link 
 
 
 https://agastyaindla.github.io/PRO-C30/
